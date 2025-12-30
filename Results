@@ -1,0 +1,109 @@
+# Spark SQL – Results
+
+**Name:** Roei Shalom  
+**ID:** 211671722
+
+---
+
+## Question 1 – Locations containing “Springfield”
+
+Springfield Police Station  
+Springfield  
+Springfield Mall  
+SPRINGFIELD ELEMENTARY SCHOOL BUS  
+Springfield Swap Meet  
+Lake Springfield  
+Springfield Prison  
+Springfield Buddhist Temple  
+FIELDS AROUND SPRINGFIELD  
+Springfield National Forest  
+SPRINGFIELD MEMORIAL HOSPITAL  
+Springfield Elementary School Yard  
+Springfield University Entrance  
+Olde Springfield Towne  
+First Church of Springfield  
+Springfield Harbor  
+Springfield Street  
+Springfield Central Monorail Platform  
+Springfield Elementary - Bart's Classroom  
+Downtown Springfield  
+SPRINGFIELD JAIL  
+Springfield Memorial Bridge  
+Lower East Side of Springfield  
+Springfield Shopper Building  
+Springfield Civic Center  
+Springfield County Court House  
+Springfield Park  
+Springfield City Limits  
+Springfield Elementary School Cafeteria  
+SPRINGFIELD POWER WORKS  
+SPRINGFIELD LOCKER ROOM  
+Springfield Public Library  
+SPRINGFIELD MILITARY BASE  
+SPRINGFIELD TEMPLE  
+Springfield Library  
+Springfield Sign  
+Springfield Mystery Spot  
+SPRINGFIELD DOCK  
+Springfield Women's Prison  
+SPRINGFIELD STADIUM  
+Grampa's Room at Springfield Retirement Castle  
+Springfield Nuclear Power Plant  
+SKY OVER SPRINGFIELD  
+SPRINGFIELD BAR  
+SPRINGFIELD ELEMENTARY AUDITORIUM  
+Springfield Museum  
+Springfield Elementary School Parking Lot  
+SPRINGFIELD ELEMENTARY SCHOOLYARD  
+Springfield High School Classroom  
+Springfield Community Center  
+
+---
+
+## Question 2 – Quotes in locations containing “Jerusalem”
+
+No results were returned.  
+The dataset contains no locations with the word “Jerusalem”.
+
+---
+
+## Question 3 – Top 20 most used locations
+
+The most frequently used locations include:
+- Springfield  
+- Springfield Elementary School  
+- Springfield Nuclear Power Plant  
+- Springfield Elementary School Classroom  
+- Moe’s Tavern  
+- Simpsons House  
+
+(Locations ranked by number of script lines, descending.)
+
+---
+
+## Question 4 – Seasons by highest average IMDb rating
+
+Season | Episode Count | Average IMDb Rating  
+------ | ------------- | ------------------  
+5 | 22 | 8.34  
+7 | 25 | 8.32  
+6 | 25 | 8.31  
+4 | 22 | 8.27  
+8 | 25 | 8.22  
+3 | 24 | 8.15  
+2 | 22 | 8.04  
+9 | 25 | 7.84  
+1 | 13 | 7.81  
+10 | 23 | 7.57  
+
+---
+
+## Question 5 – Characters with the most spoken lines
+
+The characters with the highest number of spoken lines are:
+- Homer Simpson  
+- Bart Simpson  
+- Marge Simpson  
+- Lisa Simpson  
+- Mr. Burns  
+
